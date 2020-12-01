@@ -15,7 +15,7 @@ f = np.append(f1,f2[::-1])
 
 f_x, f_y = np.meshgrid(f,f)
 f_array = f_x**2 + f_y**2
-# print(f2[::-1])
+# print(f2[::-1])dd
 # print(f)
 
 # =========== 03. power spectrum array =================
